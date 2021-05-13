@@ -1,0 +1,206 @@
+{
+  "aerodrome": [
+    {
+      "id": 1,
+      "mainInfo": {
+        "name": "UKDD",
+        "vertical": {
+          "from": 1200,
+          "to": 15500
+        },
+        "class": "C",
+        "callSign": "Dnipro Approach Radar",
+        "frequency": "128,800",
+        "languages": "ENG, RUS",
+        "points": [
+          "KERTA",
+          "KOSIR",
+          "ABABO",
+          "KRASNOGRAD",
+          "NINOR",
+          "DEKAD",
+          "KESAM",
+          "GORBA"
+        ]
+      },
+      "generalInfo": {
+        "location": "Ukraine, Dnipro",
+        "timezone": "UTC+3",
+        "operationalHours": "24/7",
+        "elevation": "147m",
+        "magVar": "8°E",
+        "coordinates": "482126N 0350602E",
+        "resqueEquipment": "Resque and fire-fighting vehicles are equipped in accordance with AD category 5",
+        "runways": "08/26",
+        "dimensions": "2558 x 44",
+        "radio": [
+          "NDB 303.00Khz"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "mainInfo": {
+        "name": "UKHS",
+        "vertical": {
+          "from": 1500,
+          "to": 15500
+        },
+        "class": "C",
+        "callSign": "Sumy Approach Radar",
+        "frequency": "134,400",
+        "languages": "ENG, RUS",
+        "points": [
+          "VELOT",
+          "KUROS",
+          "MATEG",
+          "OLSHANY",
+          "MOGAD",
+          "PEKIT",
+          "MOGRI"
+        ]
+      },
+      "generalInfo": {
+        "location": "Ukraine, Sumy",
+        "timezone": "UTC+3",
+        "operationalHours": "06:00-14:30",
+        "elevation": "181m",
+        "magVar": "8°E",
+        "coordinates": "505130N 0344546E",
+        "resqueEquipment": "Resque and fire-fighting vehicles are equipped in accordance with AD category 6",
+        "runways": "08/26",
+        "dimensions": "2500 x 42",
+        "radio": [
+          "LM08 687.00Khz",
+          "LM26 687.00Khz",
+          "LO08 335.00Khz",
+          "LO26 335.00Khz",
+          "VOR/DME 112.50Mhz",
+          "LOC 08 ILS CAT I 109.50Mhz",
+          "GP 332.60Mhz",
+          "MM 75.00Mhz",
+          "OM 75.00Mhz",
+          "LOC 26 ILS CAT I 110.30Mhz",
+          "GP 335.00Mhz",
+          "MM 75.00Mhz",
+          "OM 75.00Mhz"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "mainInfo": {
+        "name": "UUDB",
+        "vertical": {
+          "from": 1500,
+          "to": 15500
+        },
+        "class": "C",
+        "callSign": "Belgorod Approach Radar",
+        "frequency": "133,200",
+        "languages": "ENG, RUS",
+        "points": [
+          "VELOT",
+          "GULON",
+          "ROGLA",
+          "MASOL",
+          "PILAT",
+          "WL",
+          "MATEG",
+          "KUROS"
+        ]
+      },
+      "generalInfo": {
+        "location": "Russia, Belgorod",
+        "timezone": "UTC+3",
+        "operationalHours": "24/7",
+        "elevation": "224m",
+        "coordinates": "503830N 363524E",
+        "runways": "11/29",
+        "dimensions": "2500 x 44"
+      }
+    },
+    {
+      "id": 4,
+      "mainInfo": {
+        "name": "UKCC",
+        "vertical": {
+          "from": 1200,
+          "to": 15500
+        },
+        "class": "C",
+        "callSign": "Donetsk Approach Radar",
+        "frequency": "128,700",
+        "languages": "ENG, RUS",
+        "points": [
+          "KERTA",
+          "KOSIR",
+          "ABABO",
+          "BR",
+          "UROMA",
+          "NALEM",
+          "FASAD"
+        ]
+      },
+      "generalInfo": {
+        "warning": "Donetsk Interantional Airport is a currently non-operational airport. Choose another option.",
+        "location": "",
+        "timezone": "",
+        "operationalHours": "",
+        "elevation": "",
+        "magVar": "",
+        "coordinates": "",
+        "resqueEquipment": "",
+        "runways": "",
+        "dimensions": "",
+        "radio": ""
+      }
+    },
+    {
+      "id": 5,
+      "mainInfo": {
+        "name": "UKHH",
+        "vertical": {
+          "from": 1200,
+          "to": 19500
+        },
+        "class": "C",
+        "callSign": "Kharkiv Approach Radar",
+        "frequency": "126,600",
+        "languages": "ENG, RUS",
+        "points": [
+          "WL",
+          "LUSIG",
+          "LIMIT",
+          "ABUGA",
+          "BR",
+          "GR",
+          "KUBIR",
+          "LADIK",
+          "OL"
+        ]
+      },
+      "generalInfo": {
+        "location": "Ukraine, Kharkiv",
+        "timezone": "UTC+3",
+        "operationalHours": "24/7",
+        "elevation": "161m",
+        "magVar": "10°E",
+        "coordinates": "495537N 0361724E",
+        "resqueEquipment": "Resque and fire-fighting vehicles are equipped in accordance with AD category 8",
+        "runways": "07/25",
+        "dimensions": "2500 x 45",
+        "radio": [
+          "VOR/DME 116.50 MHZ",
+          "LOC 25 ILS CAT II 111.70 MHZ",
+          "GP 333.50 MHZ",
+          "DME 1078.00 MHZ",
+          "LOC 07 ILS CAT II 111.10 MHZ",
+          "GP 331.70 MHZ",
+          "DME 1072.00 MHZ"
+        ]
+      }
+    }
+  ]
+}
+

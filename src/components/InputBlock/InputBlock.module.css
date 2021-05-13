@@ -1,0 +1,11 @@
+.inputBlock {
+    display: grid;
+    justify-items: center;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    max-width: 18vw;
+    background-color: wheat;
+    margin: 0 auto;
+    padding: 2rem;
+    border-radius: 1rem;
+}
